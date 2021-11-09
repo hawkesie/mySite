@@ -1,0 +1,56 @@
+.top-container {
+  width: 98%;
+  background-color: #A6B1E1;
+  padding:1%;
+  font-family: Verdana, sans-serif;
+  padding-top: 50px;
+}
+
+.middle-container {
+  background-color: #DCD6F7;
+  width: 98%;
+  padding:1%;
+}
+
+.bottom-container {
+  background-color: #F4EEFF;
+  width: 98%;
+  padding:1%;
+}
+
+body {
+  color: #181D31;
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-top: 1px;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 1rem;
+}
+
+.profilepic {
+  border-radius: 50%;
+}
+
+.coding {
+  width: 200px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 2.6rem;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
